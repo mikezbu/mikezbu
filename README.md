@@ -9,8 +9,8 @@
 - 🌱 For my project portfolio, I am creating a Natural Language Processing (NLP) chat bot to add to my music collector's website. The purpose of this is to help the user search and recommmend a music album based upon the user's music preferences.
 
 - 📫 How to reach me:
-- LinkedIn: linkedin.com/in/mikezbu
-- Email: mikezbu97@gmail.com
+  - LinkedIn: linkedin.com/in/mikezbu
+  - Email: mikezbu97@gmail.com
 
 - ⚡ Fun fact: I play soccer, and our team got second place at a company tournament against large consulting firms such as Deloitte and PWC!
 <!--
