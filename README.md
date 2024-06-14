@@ -12,7 +12,7 @@
   - [LinkedIn](https://www.linkedin.com/in/mikezbu)
   - [Email](mailto:mikezbu97@gmail.com)
 
-- ⚡ Fun fact: Our [soccer team](https://drive.google.com/file/d/1sgKQs0Rr3e6h7Q_OXk0ienl8NoA-s1t4/view?usp=sharing) placed at a company-sponsored tournament against large consulting firms such as Deloitte and PWC!
+- ⚡ Fun fact: Our [soccer team](https://drive.google.com/file/d/1sgKQs0Rr3e6h7Q_OXk0ienl8NoA-s1t4/view?usp=sharing) placed second at a company-sponsored tournament!
 <!--
 **mikezbu/mikezbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
