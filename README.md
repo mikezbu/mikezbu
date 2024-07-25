@@ -8,7 +8,7 @@
 
 - 🔭 Currently, I'm looking for a new career opportunity with data science.
 
-- 🌱 For my project portfolio, I am creating a Natural Language Processing (NLP) chat bot to add to my [music collector's website](https://www.github.com/mikezbu/album_global). The purpose of this is to help the user search and recommmend a music album based upon the user's music preferences.
+- 🌱 For my project portfolio, I'm creating a Natural Language Processing (NLP) chat bot to add to my [music collector's website](https://www.github.com/mikezbu/album_global). The purpose of this is to help the user search and recommmend a music album based upon the user's music preferences.
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/mikezbu)
