@@ -1,10 +1,12 @@
 ## Hi there, I'm Mike Bu 👋
 
-- 💼 I currently work a Programmer Analyst at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve functioning and regulation of nuclear power plants across the United States.
+- 💼 Currently, I work a Programmer Analyst at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve functioning and regulation of nuclear power plants across the United States.
 
-- 🎓 I am also pursuing a Master of Science degree in Computer Science from Georgia Institute of Technology. My studies focus on the Machine Learning specialization, as I am learning about artificial intelligence principles and implementing them in my career. I currently hold a Bachelor of Science degree in Biological Engineering from University of Georgia.
+- 📖 I'm pursuing a Master of Science degree in Computer Science from Georgia Institute of Technology. My studies focus on the Machine Learning specialization, as I learn about artificial intelligence principles and implement them in my career.
 
-- 🔭 I'm looking for a new career opportunity with data science.
+- 🎓 I received a Bachelor of Science degree in Biological Engineering from University of Georgia.
+
+- 🔭 Currently, I'm looking for a new career opportunity with data science.
 
 - 🌱 For my project portfolio, I am creating a Natural Language Processing (NLP) chat bot to add to my [music collector's website](https://www.github.com/mikezbu/album_global). The purpose of this is to help the user search and recommmend a music album based upon the user's music preferences.
 
