@@ -2,7 +2,7 @@
 
 - 💼 I currently work a Programmer Analyst at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve functioning and regulation of nuclear power plants across the United States.
 
-- 🎓 I am also pursuing a Master of Science degree in Computer Science from the Georgia Institute of Technology (Georgia Tech). My studies focus on the Machine Learning specialization, as I am learning about AI principles and implementing them in my career.
+- 🎓 I am also pursuing a Master of Science degree in Computer Science from Georgia Institute of Technology. My studies focus on the Machine Learning specialization, as I am learning about AI principles and implementing them in my career.
 
 - 🔭 I'm looking for a new career opportunity with data science.
 
