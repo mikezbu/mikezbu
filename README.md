@@ -4,7 +4,7 @@
 
 - 📖 I'm pursuing a Master of Science degree in Computer Science from Georgia Institute of Technology. My studies focus on the Machine Learning specialization, as I learn about artificial intelligence principles and implement them in my career.
 
-- 🎓 I received a Bachelor of Science degree in Biological Engineering from University of Georgia.
+- 🎓 I received my Bachelor of Science degree in Biological Engineering from University of Georgia.
 
 - 🔭 Currently, I'm looking for a new career opportunity with data science.
 
