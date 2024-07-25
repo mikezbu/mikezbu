@@ -1,6 +1,6 @@
 ## Hi there, I'm Mike Bu 👋
 
-- 💼 Currently, I work full-time as a Programmer Analyst at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve functioning and regulation of nuclear power plants across the United States.
+- 💼 Currently, I work as a Programmer Analyst at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve functioning and regulation of nuclear power plants across the United States.
 
 - 📖 I'm pursuing a Master of Science degree in Computer Science from Georgia Tech as a part-time student. My studies focus on the Machine Learning specialization, as I learn about artificial intelligence principles and implement them in my career.
 
