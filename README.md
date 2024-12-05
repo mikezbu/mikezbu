@@ -8,7 +8,7 @@
 
 - 🎓 I received my Bachelor of Science in Biological Engineering from the University of Georgia.
 
-- 🌱 My highlight project from my portfolio is an [IQ Test Solver](https://www.github.com/mikezbu/Computer_Vision), I'm developing a [Raven's Progressive Matrices (RPM)](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices), similar to an IQ Test solver. This project focuses on building an intelligent system capable of solving visual reasoning puzzles by identifying patterns, scaling shapes, and addressing overlapping elements in images. It demonstrates my expertise in computer vision techniques and machine learning.
+- 🌱 My highlight project from my portfolio is an [IQ Test Solver](https://www.github.com/mikezbu/Computer_Vision), I'm developing an AI Agent that can solve [Raven's Progressive Matrices (RPM)](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices) - these questions are similar to problems on an IQ Test. This project focuses on building an intelligent system capable of solving visual reasoning puzzles by identifying patterns, scaling shapes, and addressing overlapping elements in images. It demonstrates my expertise in computer vision techniques and machine learning.
   
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/mikezbu)
