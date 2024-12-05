@@ -1,15 +1,15 @@
 ## Hi there, I'm Mike Bu 👋
 
-- 🔭 *I'm actively seeking a new career opportunity in data science, data engineering, data analytics, or data consulting! Feel free to reach out!*
+- 🔭 *I'm actively seeking a new full-time career opportunity in data science, data engineering, data analytics, or data consulting! Feel free to reach out!*
 
 - 💼 My current job is in Data Science at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve the functioning and regulation of nuclear power plants across the United States.
 
-- 📖 I'm pursuing a Master of Science in Computer Science from Georgia Tech as a part-time student, in parallel with my current job. My studies focus on the Machine Learning specialization, as I learn about artificial intelligence principles and implement them in my career.
+- 📖 I'm pursuing a Master of Science in Computer Science from Georgia Tech as a part-time student, in parallel with my current job. My studies focus on the Interactive Intelligence specialization, as I learn about artificial intelligence principles and implement them in my career.
 
 - 🎓 I received my Bachelor of Science in Biological Engineering from the University of Georgia.
 
-- 🌱 For my project portfolio, I'm creating a Natural Language Processing (NLP) chat bot to add to my [music collector's website](https://www.github.com/mikezbu/album_global). The purpose of this is to help the user search and recommend a music album based on the user's music preferences.
-
+- 🌱 For my project portfolio, I'm developing an Raven's Progressive Matrices (RPM) problem-solving AI agent as part of my Computer Vision repository. This project focuses on building an intelligent system capable of solving visual reasoning puzzles by identifying patterns, scaling shapes, and addressing overlapping elements in images. It demonstrates my expertise in machine learning, computer vision techniques, and AI-driven problem-solving.
+  
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/mikezbu)
   - [Email](mailto:mikezbu97@gmail.com)
