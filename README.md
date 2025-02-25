@@ -1,10 +1,8 @@
 ## Hi there, I'm Mike Bu 👋
 
-- 🔭 *I'm actively seeking a new full-time career opportunity in data science, data engineering, data analytics, or data consulting! Feel free to reach out!*
-
-- 💼 My current job is in Data Science at the Institute of Nuclear Power Operations (INPO). My work focuses on implementing data science projects such as data management and Natural Language Processing (NLP) to improve the functioning and regulation of nuclear power plants across the United States.
-
-- 📖 I'm pursuing a Master of Science in Computer Science from Georgia Tech as a part-time student, in parallel with my current job. My studies focus on the Interactive Intelligence specialization, as I learn about artificial intelligence principles and implement them in my career.
+- 💼 My current job is a Data Engineer at Cargill. My work focuses on implementing platform governance for data lineage and data architecture.
+  
+- 📖 I'm pursuing a Master of Science in Computer Science from Georgia Tech as a part-time student, in parallel with my current job. My studies focus on the Artificial Intelligence specialization, as I learn about artificial intelligence principles and implement them in my career.
 
 - 🎓 I received my Bachelor of Science in Biological Engineering from the University of Georgia.
 
